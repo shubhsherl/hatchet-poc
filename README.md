@@ -14,3 +14,6 @@ Error in Step:
 
 Timeout:
 <img width="1512" alt="Screenshot 2024-08-29 at 3 44 59 PM" src="https://github.com/user-attachments/assets/ca59d9c6-3e12-4413-afc5-af778fc8bef7">
+
+Using Action:
+<img width="1512" alt="Screenshot 2024-08-29 at 4 55 37 PM" src="https://github.com/user-attachments/assets/424a033d-1bcb-4a04-a030-fe2bac235ab1">
